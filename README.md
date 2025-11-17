@@ -71,3 +71,6 @@ mse <- mean((data$ROI - pred)^2)
 rsq <- 1 - sum((data$ROI - pred)^2) / sum((data$ROI - mean(data$ROI))^2)  
 mse  
 rsq
+
+
+dataset was too huge to upload but you can find it on kaggle
