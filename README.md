@@ -80,12 +80,12 @@ Below are visual summaries of key project stages:
 - `5.png` – Model training results (MSE & R² comparison)  
 - `6.png` – Screenshot of Streamlit prediction UI
 
-![Data exploration](images/1.png)  
-![Missing values](images/2.png)  
-![Feature correlation](images/3.png)  
-![Derived features](images/4.png)  
-![Model comparison](images/5.png)  
-![Flask UI](images/6.png)
+![Data exploration](1.png)  
+![Missing values](2.png)  
+![Feature correlation](3.png)  
+![Derived features](4.png)  
+![Model comparison](5.png)  
+![Streamlit UI](6.png)
 
 ---
 
