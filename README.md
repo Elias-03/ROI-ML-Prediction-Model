@@ -81,11 +81,11 @@ Below are visual summaries of key project stages:
 - `6.png` – Screenshot of Streamlit prediction UI
 
 ![Data exploration](1.PNG)  
-![Missing values](2.png)  
-![](3.png)  
-![](4.png)  
-![Model comparison](5.png)  
-![Streamlit UI](6.png)
+![Missing values](2.PNG)  
+![](3.PNG)  
+![](4.PNG)  
+![Model comparison](5.PNG)  
+![Streamlit UI](6.PNG)
 
 ---
 
