@@ -82,8 +82,8 @@ Below are visual summaries of key project stages:
 
 ![Data exploration](1.png)  
 ![Missing values](2.png)  
-![Feature correlation](3.png)  
-![Derived features](4.png)  
+![](3.png)  
+![](4.png)  
 ![Model comparison](5.png)  
 ![Streamlit UI](6.png)
 
